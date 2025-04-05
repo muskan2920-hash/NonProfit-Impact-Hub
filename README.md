@@ -18,7 +18,4 @@ A platform for NGOs and nonprofits to manage events, volunteers, donors, and gra
 - Word (Documentation)
 - GitHub (Version Control)
 
-## 🗂 How to Use
-1. Review diagrams under `/Diagrams`
-2. Read the full report in `/Documentation`
-3. Requirements are in `/Requirements`
+
